@@ -1,12 +1,22 @@
 body {
   background-color: pink;
   color: #fff;
+  text-align: center;
 }
 
-h1 {
-  text-align: center;
+p {
+  font-size: 18px;
+  padding: 60px 20px;
 }
 
 img {
   max-width: 200px;
+}
+
+a {
+  color: hotpink;
+}
+
+ul {
+  list-style: none;
 }
